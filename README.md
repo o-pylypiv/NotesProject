@@ -28,7 +28,7 @@ NotesProject is a simple note-taking application built using Swift and UIKit. It
 <img src="screenshots/create_note.png" alt="Create Note" width="300">
 
 ### Note Share
-<img src="screenshots/note_share.png" alt="Note Detail" width="300">
+<img src="screenshots/note_share.png" alt="Note Share" width="300">
 
 ## Possible Improvements
 
